@@ -1,5 +1,14 @@
-# review-bot
+# Review-Bot
 A Slack Integration to speed up Pull Requests Reviews for Organizations using Slack and Github 🐨
+
+## Features: (as of Version 1.0)
+
+- Supports Slack Notifications (messages) for the following events:  
+  - Requesting a Reviewer for a Pull Request.
+  - Approving a Pull Request.
+  - Submitting a review with general comments.
+  - Submitting a review requesting changes.
+- Direct link to pull request in the Slack message.
 
 ## Setup - TL;DR version
 
